@@ -16,6 +16,10 @@
     "svelte-check": "^3.3.1",
     "tslib": "^2.5.0",
     "typescript": "^5.0.2",
-    "vite": "^4.3.9"
+    "vite": "^4.3.9",
+    "vite-tsconfig-paths": "^4.2.0"
+  },
+  "dependencies": {
+    "@ionic/core": "^7.1.0"
   }
 }
